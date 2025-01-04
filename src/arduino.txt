@@ -1,0 +1,13 @@
+/Assets
+  /Scripts
+   /Core
+   /Managers
+   /Gameplay
+   /UI
+   /Network
+   /Audio
+  /Prefabs
+  /Animations
+  /Textures
+  /Scenes
+  /Audio
